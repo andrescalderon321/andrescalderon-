@@ -1,0 +1,45 @@
+body{
+
+background-image: url(/img/sl_031420_28950_10.jpg);
+
+
+}
+
+h1{
+
+    text-align: center;
+    color: rgb(238, 184, 24);
+    font-size: 300%;
+
+}
+
+p{
+    text-align: center;
+    color: rgb(50, 143, 225);
+    font-size: 150%;
+}
+
+img {
+
+    display: flex;
+    margin-left: 550px;
+
+
+}
+
+.boton{
+
+    display: flex;
+    margin: 0 auto;
+ 
+
+
+}
+
+.contenido{
+    margin: 2%;
+    text-align: center;
+    color: rgb(238, 184, 24);
+    font-size: 150%;
+
+}
